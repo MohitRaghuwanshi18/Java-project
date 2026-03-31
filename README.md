@@ -38,7 +38,7 @@ This project demonstrates key Object-Oriented Programming concepts such as class
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Priyanshagrawal633/Programming-in-Java-Evaluated-Course-Project/upload
+git clone https://github.com/MohitRaghuwanshi18/Java-project
 cd AppointmentSystem/src
 
 
